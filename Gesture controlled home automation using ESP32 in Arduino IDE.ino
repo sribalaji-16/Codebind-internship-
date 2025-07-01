@@ -1,4 +1,4 @@
-// Gesture controlled home automation using Arduino IDE 
+// Gesture controlled home automation using ESP32
 
 /* Function Highlights
 apds.init() → Initializes the gesture sensor.
